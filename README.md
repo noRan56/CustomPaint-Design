@@ -20,8 +20,8 @@ A Flutter project showcasing advanced custom shape drawing and complex UI design
 | ------------------------ | ------------------------- |
 | ![Home](assets/home.png) | ![UI](assets/details.png) |
 | Size Selector            | Custom Shapes             |
-
-| ![Sizes](assets/d.png) | ![Shapes](assets/f.png) |
+| ---------------          | --------------------      |
+| ![Sizes](assets/d.png)   | ![Shapes](assets/f.png)   |
 
 🛠️ Tech Stack
 
